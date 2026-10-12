@@ -16,3 +16,4 @@ accountPassword = "272727"
 accountCity = "Delhi"
 
 console.table({accountId, accountEmail, accountPassword, accountCity, accountState})
+ 
