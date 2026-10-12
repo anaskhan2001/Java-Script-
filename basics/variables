@@ -15,5 +15,5 @@ accountEmail = "khan@gmail.com"
 accountPassword = "272727"
 accountCity = "Delhi"
 
-console.table({accountId, accountEmail, accountPassword, accountCity, accountState})
+console.table({accountId, accountEmail, accountPassword, accountCity, accountState}) 
  
