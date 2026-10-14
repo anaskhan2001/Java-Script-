@@ -2,7 +2,7 @@
 
 // alert(3 + 4); // we are using node js not browser so alert will not work here. It will give error. Use console.log instead of alert to print in node js.
 
-console.log(3 + 4); // 7
+console.log(3 + 4); // 7 
 
 /*console.log(3 
     + 4); // 7   */
