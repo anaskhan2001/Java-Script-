@@ -1,4 +1,4 @@
-console.log(Math);
+console.log(Math); 
 console.log(Math.abs(-4))//Exact same value aayege wo bhe positive me 
 console.log(Math.round(5.3))//Same round off kr deta hai value ko 
 console.log(Math.round(5.5))
