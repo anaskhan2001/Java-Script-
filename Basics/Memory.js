@@ -1,5 +1,5 @@
 //stack (Primitive) memory management
-//heap (Non-Primitive) memory management
+//heap (Non-Primitive) memory management 
 
 //stack memory management
 
