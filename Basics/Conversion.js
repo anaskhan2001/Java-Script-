@@ -1,4 +1,4 @@
-let score = "33abc"
+let score = "33abc" 
 
 console.log(typeof score) //string
 console.log(typeof Number(score)) //number
