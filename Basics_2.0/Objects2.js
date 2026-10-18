@@ -126,7 +126,7 @@ JSON
     price: "free"
 }
 */
-
+//Types Of JSON format
 [
     {},
     {},
