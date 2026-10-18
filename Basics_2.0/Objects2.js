@@ -99,3 +99,36 @@ console.log(Object.keys(appleUser))
 
 //Check Property hai ya nhe hai 
 console.log(appleUser.hasOwnProperty('isLoggedIn'));
+
+//Destructuring 
+
+const course = {
+    coursename: "Java script course",
+    price: "9999",
+    coursteacher: "Anas"
+}
+
+// course.coursteacher
+// console.log(coursteacher);
+
+const {coursteacher} = course
+console.log(coursteacher); 
+
+/*Change name 
+const {coursteacher: ABC } = course
+console.log(ABC);*/
+
+/*APIs Jb apna kaam kise or ke sr daal dena hota hai usko he APIs khete hai 
+JSON
+{
+    name: "Khan Sahab"
+    coursename: "Full stack Course"
+    price: "free"
+}
+*/
+
+[
+    {},
+    {},
+    {}
+]
