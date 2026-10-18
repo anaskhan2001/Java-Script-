@@ -121,9 +121,9 @@ console.log(ABC);*/
 /*APIs Jb apna kaam kise or ke sr daal dena hota hai usko he APIs khete hai 
 JSON
 {
-    name: "Khan Sahab"
-    coursename: "Full stack Course"
-    price: "free"
+    "name": "Khan Sahab"
+    "coursename": "Full stack Course"
+    "price": "free"
 }
 */
 //Types Of JSON format
